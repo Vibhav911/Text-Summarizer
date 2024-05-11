@@ -28,7 +28,8 @@ list_of_files = [
     "Dockerfile",
     "requirements.txt",
     'setup.py',
-    'research/trials.ipynb'
+    'research/trials.ipynb',
+    'test.py'
 ]
 
 # Writing code to create the above files
